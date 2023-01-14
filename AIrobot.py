@@ -1,6 +1,7 @@
 import tensorflow as tf
 import telebot
 from telebot import types
+import pyrogram
 
 bot = telebot.TeleBot("YOUR_BOT_TOKEN")
 
