@@ -1,0 +1,4 @@
+telebot
+pyrogram
+tensorflow
+
